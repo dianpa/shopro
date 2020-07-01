@@ -13,6 +13,7 @@ import {
 import shoproShare from '@/common/mixins/shopro-share'
 Vue.mixin(shoproShare);
 
+
 import {
 	RouterMount
 } from 'uni-simple-router'
